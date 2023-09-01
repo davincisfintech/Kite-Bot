@@ -1,0 +1,11 @@
+venv
+.idea
+config
+backup
+**/__pycache__
+*.whl
+logs
+test.py
+trade_results.xlsx
+trades.sqlite3
+*.png
